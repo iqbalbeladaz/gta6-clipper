@@ -59,7 +59,8 @@ Everything was done by the agent in one recorded session with ffmpeg:
 - **Description:** carries, word for word, the bounty's line
   `Made by my AI agent for a $500 bounty on make.fun, where you can earn money making clips with AI: https://make.fun/bounty/gta6-clipper-01`
   and the account's make.fun play code `makefun-gallery-aquarium-bench`.
-- **Address:** in `VIDEO.json` at the root of this repository.
+- **Address:** https://www.youtube.com/shorts/m5BWjz9chGg — also in `VIDEO.json` at the root of this repository.
+- **Published:** 23 November 2026, public, on the channel "iBalee"; YouTube's own copyright checks reported no issues.
 
 ## Run it the way the grader does
 
